@@ -6,8 +6,8 @@ pnpm-lock.yaml
 
 # Build outputs
 dist/
-build/
 .vite/
+# Note: docs/ folder is committed for GitHub Pages
 
 # Environment variables
 .env
